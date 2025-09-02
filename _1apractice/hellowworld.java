@@ -1,0 +1,9 @@
+package _1apractice;
+
+public class hellowworld {
+
+	public static void main(String[] args) {
+		System.out.println("hellow world");
+	}
+
+}
